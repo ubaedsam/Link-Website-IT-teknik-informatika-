@@ -5,12 +5,14 @@ Link Bantu Pembuatan Website Developer :
 4. https://laravel.com/docs/8.x : Website untuk membuat Framework laravel.
 5. https://git-scm.com/ : Website untuk membuat website secara  manual lewat computer dengan git.
 6. https://github.com/ : Website untuk menyimpan data hasil membuat website dan bisa juga sebagai akses membuat website bersama-sama.
+7. https://www.dofactory.com/sql/join : panduan website untuk menyediakan sql dalam sistem operasi website.
+8. https://startbootstrap.com/theme/sb-admin-2 : website untuk menyediakan template admin.
 
 Link Website untuk panduan membuat website dan ekstensi proses website :
 1. https://cdnjs.com/libraries/font-awesome : Website untuk ekstensi tipe tulisan pada website.
 2. https://www.bootstrapcdn.com/ : Website untuk ekstensi tampilan website.
 3. https://pages.github.com/ : Website untuk panduan github maupun git pada repository file.
-4. https://jquery.com/ : Website untuk ekstensi sistem CRUD ( CREATE,READ,UPDATE,DAN DELETE.
+4. https://jquery.com/ : Website untuk ekstensi sistem CRUD ( CREATE,READ,UPDATE,DAN DELETE ).
 
 Link membuat tampilan Website Develepor :
 1. https://getbootstrap.com/docs/4.0/components/carousel/ : Website untuk mempercantik website dengan CSS ada 2 tipe 4.0 dan 5.0.
@@ -22,7 +24,8 @@ Link Website Hosting upload website ke internet :
 1. https://infinityfree.net/ : Website Hosting gratis.
 2. https://www.niagahoster.co.id/ : Website Hosting berbayar.
 3. https://www.qwords.com/ : Website Hosting berbayar.
-4. https://idwebhost.com/ : Website Hosting berbayar
+4. https://idwebhost.com/ : Website Hosting berbayar.
+5. https://www.hostinger.co.id/ : Website Hosting berbayar
 
 Link Website untuk membeli template website :
 1. https://www.templatemonster.com/ : Website penyedia untuk membeli template website.
