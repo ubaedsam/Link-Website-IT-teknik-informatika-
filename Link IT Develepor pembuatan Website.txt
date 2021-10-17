@@ -7,6 +7,7 @@ Link Bantu Pembuatan Website Developer :
 6. https://github.com/ : Website untuk menyimpan data hasil membuat website dan bisa juga sebagai akses membuat website bersama-sama.
 7. https://www.dofactory.com/sql/join : panduan website untuk menyediakan sql dalam sistem operasi website.
 8. https://startbootstrap.com/theme/sb-admin-2 : website untuk menyediakan template admin.
+9. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array?retiredLocale=id : website untuk membantu dalam memahami array java script
 
 Link Website untuk panduan membuat website dan ekstensi proses website :
 1. https://cdnjs.com/libraries/font-awesome : Website untuk ekstensi tipe tulisan pada website.
