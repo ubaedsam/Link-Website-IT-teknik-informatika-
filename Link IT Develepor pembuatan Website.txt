@@ -6,10 +6,11 @@ Link Bantu Pembuatan Website Developer :
 5. https://git-scm.com/ : Website untuk membuat website secara  manual lewat computer dengan git.
 6. https://github.com/ : Website untuk menyimpan data hasil membuat website dan bisa juga sebagai akses membuat website bersama-sama.
 7. https://www.dofactory.com/sql/join : panduan website untuk menyediakan sql dalam sistem operasi website.
-8. https://startbootstrap.com/theme/sb-admin-2 : website untuk menyediakan template admin.
+8. https://startbootstrap.com/theme/sb-admin-2 : website gratis untuk download template admin.
 9. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array?retiredLocale=id : website untuk membantu dalam memahami array java script
 10. https://colorlib.com/wp/templates/ : website berbayar untuk download contoh template website
 11. https://themewagon.com/theme-price/free/ : website gratis untuk download contoh template website
+12. https://adminlte.io/ : website gratis untuk download contoh template website
 
 Link Website untuk panduan membuat website dan ekstensi proses website :
 1. https://cdnjs.com/libraries/font-awesome : Website untuk ekstensi tipe tulisan pada website.
