@@ -18,6 +18,7 @@ Link Website untuk panduan membuat website dan ekstensi proses website :
 3. https://pages.github.com/ : Website untuk panduan github maupun git pada repository file.
 4. https://jquery.com/ : Website untuk ekstensi sistem CRUD ( CREATE,READ,UPDATE,DAN DELETE ).
 5. https://eloquentjavascript.net/ : Website pedoman fungsi javascript.
+6. https://code.jquery.com/ : Website untuk extensi cdn jquery ( Mengambil Server Jquery )
 
 Link membuat tampilan Website Develepor :
 1. https://getbootstrap.com/docs/4.0/components/carousel/ : Website untuk mempercantik website dengan CSS ada 2 tipe 4.0 dan 5.0.
