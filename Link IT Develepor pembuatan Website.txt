@@ -46,8 +46,12 @@ Link Github Untuk referensi data website :
 2. http://syahrilhidayat.github.io/ : website dengan github ( Syahril JWD )
 3. https://github.com/syahrilhidayat : Github ( Syahril JWD )
 4. https://github.com/sandhikagalih : Github ( Dosen Shandika Galih YT )
-5. https://github.com/Midtrans/Midtrans-CodeIgniter : Github ( Data transaksi Online midtrans )
+5. https://github.com/Midtrans/Midtrans-CodeIgniter : Github ( Data server API transaksi Online midtrans )
 
 Link Website Aplikasi Server API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
 2. https://insomnia.rest/ : Aplikasi Rest API
+3. https://any-api.com/ : Server API website terkenal seperti spotify, google, nba, dll
+4. https://github.com/public-apis/public-apis : Server API website terkenal juga seperti mencari data anime, film, musik, dll
+5. https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA : Daftar Data Server API Indonesia
+6. http://www.omdbapi.com/apikey.aspx : Data Untuk membuat Akun API Key FILM
