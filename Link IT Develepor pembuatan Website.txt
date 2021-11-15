@@ -19,6 +19,7 @@ Link Website untuk panduan membuat website dan ekstensi proses website :
 4. https://jquery.com/ : Website untuk ekstensi sistem CRUD ( CREATE,READ,UPDATE,DAN DELETE ).
 5. https://eloquentjavascript.net/ : Website pedoman fungsi javascript.
 6. https://code.jquery.com/ : Website untuk extensi cdn jquery ( Mengambil Server Jquery )
+7. https://docs.guzzlephp.org/en/stable/overview.html#installation : website untuk panduan membuat rest client server API
 
 Link membuat tampilan Website Develepor :
 1. https://getbootstrap.com/docs/4.0/components/carousel/ : Website untuk mempercantik website dengan CSS ada 2 tipe 4.0 dan 5.0.
@@ -47,11 +48,14 @@ Link Github Untuk referensi data website :
 3. https://github.com/syahrilhidayat : Github ( Syahril JWD )
 4. https://github.com/sandhikagalih : Github ( Dosen Shandika Galih YT )
 5. https://github.com/Midtrans/Midtrans-CodeIgniter : Github ( Data server API transaksi Online midtrans )
+6. https://github.com/public-apis/public-apis : Server API website terkenal juga seperti mencari data anime, film, musik, dll
+7. https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA : Daftar Data Server API Indonesia
+8. https://github.com/chriskacerguis/codeigniter-restserver/tree/f3ba7d76cb14c11602f72b432926a17b8ff7c590 : file untuk membuat rest server API
 
 Link Website Aplikasi Server API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
 2. https://insomnia.rest/ : Aplikasi Rest API
 3. https://any-api.com/ : Server API website terkenal seperti spotify, google, nba, dll
-4. https://github.com/public-apis/public-apis : Server API website terkenal juga seperti mencari data anime, film, musik, dll
-5. https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA : Daftar Data Server API Indonesia
-6. http://www.omdbapi.com/apikey.aspx : Data Untuk membuat Akun API Key FILM
+4. http://www.omdbapi.com/apikey.aspx : Data Untuk membuat Akun API Key FILM
+5. https://developers.google.com/ : Website untuk menghubungkan ke server API Google ( youtube, dll )
+6. https://www.instagram.com/developer/ : Website untuk menghubungkan ke server API Instagram
