@@ -11,6 +11,8 @@ Link Bantu Pembuatan Website Developer :
 10. https://colorlib.com/wp/templates/ : website berbayar untuk download contoh template website
 11. https://themewagon.com/theme-price/free/ : website gratis untuk download contoh template website
 12. https://adminlte.io/ : website gratis untuk download contoh template website
+13. https://www.freecodecamp.org/ : Website utama referensi script HTML, CSS, javascript, PHP, SQL Server, dan masih banyak lagi untuk pembuatan data web developer
+14. https://www.geeksforgeeks.org/ : Website utama referensi script javascript untuk pembuatan data web developer
 
 Link Website untuk panduan membuat website dan ekstensi proses website :
 1. https://cdnjs.com/libraries/font-awesome : Website untuk ekstensi tipe tulisan pada website.
@@ -41,6 +43,7 @@ Link Website untuk membeli template website :
 
 Link Website untuk tes belajar Web Developer :
 1. https://www.sololearn.com/learning/1014/1021/1027/2 : Website untuk pembelajaran test Web Developer
+2. https://www.udacity.com/ : website untuk mempelajari tentang AI, Data science, dan masih banyak lagi
 
 Link Github Untuk referensi data website :
 1. https://github.com/skolmer : Github ( Skolmer )
@@ -51,6 +54,7 @@ Link Github Untuk referensi data website :
 6. https://github.com/public-apis/public-apis : Server API website terkenal juga seperti mencari data anime, film, musik, dll
 7. https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA : Daftar Data Server API Indonesia
 8. https://github.com/chriskacerguis/codeigniter-restserver/tree/f3ba7d76cb14c11602f72b432926a17b8ff7c590 : file untuk membuat rest server API
+9. https://github.com/afgprogrammer : github untuk belajar UI App mobile
 
 Link Website Aplikasi Server API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
