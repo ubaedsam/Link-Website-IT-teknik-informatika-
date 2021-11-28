@@ -30,6 +30,19 @@ Link membuat tampilan Website Develepor :
 4. https://giphy.com/ : website untuk mempercantik background pada website.
 5. https://styled-components.com/ : website untuk memperbagus tampilan website dengan CSS API
 6. http://canva.com/ : Website untuk membuat tampilan website secara simple dan bisa juga membuat CV Data diri
+7. https://www.vecteezy.com/ : website untuk mencari background PNG yang bagus
+8. https://www.flaticon.com/ : website untuk mencari icon PNG yang bagus 1
+9. https://pngtree.com/ : website untuk mencari icon PNG yang bagus 2
+10. https://www.iconshock.com/ : website untuk mencari icon PNG 3D yang bagus 3
+11. https://icons8.com/ : Website untuk mencari icon PNG yang bagus 4
+12. https://www.iconfinder.com/ : website untuk mencari icon PNG yang bagus 5
+13. https://fontawesome.com/ : Website untuk mencari html icon yang bagus
+14. https://csslayout.io/ : website script CSS untuk mempercantik tag html
+15. https://cssbuttons.io/ : website script CSS untuk mempercantik tag button html
+16. https://bgjar.com/ : website untuk membuat background sendiri
+17. https://shadows.brumm.af/ : website untuk membuat background atau gambar menjadi mempunyai bayangan
+18. https://bennettfeely.com/ : website untuk membuat aneka gambar menggunakan css
+19. https://getwaves.io/ : website untuk membuat background gradasi menggunakan css
 
 Link Website Hosting upload website ke internet :
 1. https://infinityfree.net/ : Website Hosting gratis.
