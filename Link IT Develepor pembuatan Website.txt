@@ -69,7 +69,7 @@ Link Github Untuk referensi data website :
 8. https://github.com/chriskacerguis/codeigniter-restserver/tree/f3ba7d76cb14c11602f72b432926a17b8ff7c590 : file untuk membuat rest server API
 9. https://github.com/afgprogrammer : github untuk belajar UI App mobile
 10. https://github.com/fzaninotto/Faker : Github jika ingin mengambil data random pada konsep migration, seeder, dan faker (Codeigniter4)
-11. https://github.com/lonnieezell/myth-auth : Library myth / auth untuk sistem login lengkap menggunakan framework codeigniter4
+11. https://github.com/lonnieezell/myth-auth : Library myth / auth untuk sistem login lengkap menggunakan framework codeigniter4 dan melihat dokumentasi pembuatannya
 12. https://github.com/lonnieezell : Github web developer yang membuat framework codeigniter4
 
 Link Website Aplikasi Server API ( Rest API ) :
