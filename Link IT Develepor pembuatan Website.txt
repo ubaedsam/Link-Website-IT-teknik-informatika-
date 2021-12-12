@@ -71,6 +71,7 @@ Link Github Untuk referensi data website :
 10. https://github.com/fzaninotto/Faker : Github jika ingin mengambil data random pada konsep migration, seeder, dan faker (Codeigniter4)
 11. https://github.com/lonnieezell/myth-auth : Library myth / auth untuk sistem login lengkap menggunakan framework codeigniter4 dan melihat dokumentasi pembuatannya
 12. https://github.com/lonnieezell : Github web developer yang membuat framework codeigniter4
+13. https://github.com/Sirneij/carrotsuite-admin-ui : Github untuk template website
 
 Link Website Aplikasi Server API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
