@@ -43,6 +43,7 @@ Link membuat tampilan Website Develepor :
 17. https://shadows.brumm.af/ : website untuk membuat background atau gambar menjadi mempunyai bayangan
 18. https://bennettfeely.com/ : website untuk membuat aneka gambar menggunakan css
 19. https://getwaves.io/ : website untuk membuat background gradasi menggunakan css
+20. https://novibuilder.com/html-templates-with-code/ : Website penyedia Template website gratis
 
 Link Website Hosting upload website ke internet :
 1. https://infinityfree.net/ : Website Hosting gratis.
@@ -73,10 +74,15 @@ Link Github Untuk referensi data website :
 12. https://github.com/lonnieezell : Github web developer yang membuat framework codeigniter4
 13. https://github.com/Sirneij/carrotsuite-admin-ui : Github untuk template UI/UX dan bisa juga untuk website
 
-Link Website Aplikasi Server API ( Rest API ) :
+Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
 2. https://insomnia.rest/ : Aplikasi Rest API
 3. https://any-api.com/ : Server API website terkenal seperti spotify, google, nba, dll
 4. http://www.omdbapi.com/apikey.aspx : Data Untuk membuat Akun API Key FILM
 5. https://developers.google.com/ : Website untuk menghubungkan ke server API Google ( youtube, dll )
 6. https://www.instagram.com/developer/ : Website untuk menghubungkan ke server API Instagram
+7. https://rajaongkir.com/akun/daftar : Website API untuk menambahkan fitur solusi pembayaran
+
+Link Website Template Framework E-Commerce :
+1. https://www.opencart.com/ : Website Open-souce Download Template Framework open cart (PHP Versi 5+)
+2. https://www.prestashop.com/en/download : Website Open-souce Download Template Framework PrestaShop (PHP Versi 7+)
