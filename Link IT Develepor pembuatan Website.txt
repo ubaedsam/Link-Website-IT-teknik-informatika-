@@ -24,26 +24,37 @@ Link Website untuk panduan membuat website dan ekstensi proses website :
 7. https://docs.guzzlephp.org/en/stable/overview.html#installation : website untuk panduan membuat rest client server API
 
 Link membuat tampilan Website Develepor :
+~ CSS dan HTML ~
 1. https://getbootstrap.com/docs/4.0/components/carousel/ : Website untuk mempercantik website dengan CSS ada 2 tipe 4.0 dan 5.0.
-2. https://unsplash.com/ : Website untuk mengambil gambar tanpa takut copyright.
+2. https://styled-components.com/ : website untuk memperbagus tampilan website dengan CSS API
 3. https://sweetalert2.github.io/ : Website untuk mempercantik  peringatan/notifikasi pada website.
-4. https://giphy.com/ : website untuk mempercantik background pada website.
-5. https://styled-components.com/ : website untuk memperbagus tampilan website dengan CSS API
-6. http://canva.com/ : Website untuk membuat tampilan website secara simple dan bisa juga membuat CV Data diri
-7. https://www.vecteezy.com/ : website untuk mencari background PNG yang bagus
-8. https://www.flaticon.com/ : website untuk mencari icon PNG yang bagus 1
-9. https://pngtree.com/ : website untuk mencari icon PNG yang bagus 2
-10. https://www.iconshock.com/ : website untuk mencari icon PNG 3D yang bagus 3
-11. https://icons8.com/ : Website untuk mencari icon PNG yang bagus 4
-12. https://www.iconfinder.com/ : website untuk mencari icon PNG yang bagus 5
-13. https://fontawesome.com/ : Website untuk mencari html icon yang bagus
-14. https://csslayout.io/ : website script CSS untuk mempercantik tag html
-15. https://cssbuttons.io/ : website script CSS untuk mempercantik tag button html
-16. https://bgjar.com/ : website untuk membuat background sendiri
-17. https://shadows.brumm.af/ : website untuk membuat background atau gambar menjadi mempunyai bayangan
-18. https://bennettfeely.com/ : website untuk membuat aneka gambar menggunakan css
-19. https://getwaves.io/ : website untuk membuat background gradasi menggunakan css
-20. https://novibuilder.com/html-templates-with-code/ : Website penyedia Template website gratis
+4. https://csslayout.io/ : website script CSS untuk mempercantik tag html
+5. https://cssbuttons.io/ : website script CSS untuk mempercantik tag button html
+6. https://bgjar.com/ : website untuk membuat background sendiri
+7. https://shadows.brumm.af/ : website untuk membuat background atau gambar menjadi mempunyai bayangan
+8. https://bennettfeely.com/ : website untuk membuat aneka gambar menggunakan css
+9. https://getwaves.io/ : website untuk membuat background gradasi menggunakan css
+10. https://tailblocks.cc/ : Website untuk mencari source code CSS tampilan website
+11. https://neumorphism.io/#e0e0e0 : website untuk membuat tampilan CSS border-radius dan box-shadow (1)
+12. https://hype4.academy/tools/glassmorphism-generator : Website untuk membuat tampilan CSS Blur dan Transparancy
+13. https://9elements.github.io/fancy-border-radius/#30.30.52.30--. : website untuk membuat tampilan CSS border-radius dan box-shadow (2)
+14. https://cssgrid-generator.netlify.app/ : Website untuk membuat tampilan CSS Grid
+15. https://css3gen.com/text-shadow/ : Website untuk membuat tampilan CSS3
+16. https://gradientbuttons.colorion.co/ : Website untuk membuat tampilan CSS warna gradients pada button
+
+~ Gambar, Video, dan Icon ~
+1. https://unsplash.com/ : Website untuk mengambil gambar tanpa takut copyright.
+2. https://www.vecteezy.com/ : website untuk mencari background PNG yang bagus
+3. https://www.flaticon.com/ : website untuk mencari icon PNG yang bagus 1
+4. https://pngtree.com/ : website untuk mencari icon PNG yang bagus 2
+5. https://www.iconshock.com/ : website untuk mencari icon PNG 3D yang bagus 3
+6. https://icons8.com/ : Website untuk mencari icon PNG yang bagus 4
+7. https://www.iconfinder.com/ : website untuk mencari icon PNG yang bagus 5
+8. https://fontawesome.com/ : Website untuk mencari html icon yang bagus
+9. https://giphy.com/ : website untuk mempercantik background pada website.
+
+Link Website Untuk membuat CV kerja IT :
+1. http://canva.com/ : Website untuk membuat tampilan website secara simple dan bisa juga membuat CV Data diri
 
 Link Website Hosting upload website ke internet :
 1. https://infinityfree.net/ : Website Hosting gratis.
@@ -51,12 +62,21 @@ Link Website Hosting upload website ke internet :
 3. https://www.qwords.com/ : Website Hosting berbayar.
 4. https://idwebhost.com/ : Website Hosting berbayar.
 5. https://www.hostinger.co.id/ : Website Hosting berbayar
+6. https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjFqfLTwvv0AhWKfysKHVFEDyAYABACGgJzZg&ae=2&ohost=www.google.com&cid=CAESQOD2MpxN1MIEx1_5v-6QhJYHslgKhS_wcRyV832-ZOQQGuY-vxYF0wY-rFlsw-pqYycbmiPkbfsG8qsIL2D5Uok&sig=AOD64_3LJ9vSP7lDqApukgKbwZalEotPVg&q&adurl&ved=2ahUKEwj6pezTwvv0AhWoTGwGHev0DNQQ0Qx6BAgCEAE : Website untuk membuat website sendiri dengan hosting berbayar dan gratis
 
 Link Website untuk membeli template website berbayar :
 1. https://www.templatemonster.com/ : Website penyedia untuk membeli template website secara berbayar.
 
 Link Website untuk membeli template website gratis :
 1. https://zyro.com/id?utm_source=WPU&utm_medium=influencers&utm_campaign=integration&utm_content=video : Website penyedia untuk membeli template website secara gratis.
+2. https://novibuilder.com/html-templates-with-code/ : Website penyedia Template website gratis
+
+Link Website untuk membuat template website sendiri
+1. https://carrd.co/ : Website penyedia Template website landing page gratis
+2. https://webflow.com/ : Website penyedia Template website landing page gratis
+3. https://www.antfolio.app/ : Website penyedia Template website landing page gratis
+4. https://versoly.com/ : Website penyedia Template website landing page gratis
+5. https://convertkit.com/ : Website penyedia Template website landing page gratis
 
 Link Website untuk tes belajar Web Developer :
 1. https://www.sololearn.com/learning/1014/1021/1027/2 : Website untuk pembelajaran test Web Developer
@@ -76,6 +96,7 @@ Link Github Untuk referensi data website :
 11. https://github.com/lonnieezell/myth-auth : Library myth / auth untuk sistem login lengkap menggunakan framework codeigniter4 dan melihat dokumentasi pembuatannya
 12. https://github.com/lonnieezell : Github web developer yang membuat framework codeigniter4
 13. https://github.com/Sirneij/carrotsuite-admin-ui : Github untuk template UI/UX dan bisa juga untuk website
+14. https://github.com/adamgiebl : Github untuk melihat hasil tampilan CSS
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
