@@ -7,6 +7,7 @@ Link Bantu Pembuatan Website Developer :
 5. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array?retiredLocale=id : website untuk membantu dalam memahami array java script
 6. https://www.dofactory.com/sql/join : panduan website untuk menyediakan sql dalam sistem operasi website.
 7. https://sass-lang.com/documentation : Panduan Website untuk tampilan website dengan SASS CSS
+8. https://carbon.now.sh/ : Website untuk memperbaiki script codingan yang error
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
@@ -53,6 +54,7 @@ Link membuat tampilan Website Develepor :
 18. https://cssanimation.rocks/ : Website untuk membuat tampilan CSS Animation (2)
 19. https://darekkay.com/projects/ : Website untuk membuat tampilan CSS Flet-box dan lain
 20. https://colorspectrum.design/generator.html : Website untuk membuat tampilan CSS UI/UX
+21. https://svgwave.in/ : Website untuk mencari wave gelombang warna tampilan website
 
 ~ Gambar, Video, dan Icon ~
 1. https://unsplash.com/ : Website untuk mengambil gambar tanpa takut copyright.
@@ -70,11 +72,13 @@ Link membuat tampilan Website Develepor :
 13. https://designstripe.com/ : Website untuk mencari gambar bagus
 14. https://www.freepik.com/home : Website untuk mencari template tampilan website, gambar, dan icon
 15. https://www.figma.com/files/recent?fuid=1057233800240104890 : Website untuk mengambil sebagian tampilan template website
+16. https://squoosh.app/ : Website untuk merubah ukuran sebuah gambar
 
 ~ Tulisan ~
 1. https://fonts.google.com/ : Website untuk mencari tampilan tulisan bagus dari google (1)
 2. https://www.fontsquirrel.com/ : Website untuk mencari tampilan tulisan bagus (2)
 3. https://www.fontspring.com/ : Website untuk mencari tampilan tulisan bagus (3)
+4. https://type-scale.com/ : Website untuk mencari tampilan ukuran tulisan (REM dan EM)
 
 Link Website Hosting upload website ke internet :
 1. https://infinityfree.net/ : Website Hosting gratis.
@@ -99,6 +103,7 @@ Link Github Untuk referensi data website :
 12. https://github.com/lonnieezell : Github web developer yang membuat framework codeigniter4
 13. https://github.com/Sirneij/carrotsuite-admin-ui : Github untuk template UI/UX dan bisa juga untuk website
 14. https://github.com/adamgiebl : Github untuk melihat hasil tampilan CSS
+15. https://github.com/thedaviddias : Github untuk melihat referensi project javascript
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
