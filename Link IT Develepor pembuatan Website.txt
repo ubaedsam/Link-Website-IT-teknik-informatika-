@@ -6,6 +6,7 @@ Link Bantu Pembuatan Website Developer :
 4. https://www.geeksforgeeks.org/ : Website utama referensi script javascript untuk pembuatan data web developer
 5. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array?retiredLocale=id : website untuk membantu dalam memahami array java script
 6. https://www.dofactory.com/sql/join : panduan website untuk menyediakan sql dalam sistem operasi website.
+7. https://sass-lang.com/documentation : Panduan Website untuk tampilan website dengan SASS CSS
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
@@ -67,6 +68,8 @@ Link membuat tampilan Website Develepor :
 11. https://publicdomainvectors.org/ : Website untuk mencari gambar vectors
 12. https://free3dicon.com/ : Website untuk mendownload 3D icon
 13. https://designstripe.com/ : Website untuk mencari gambar bagus
+14. https://www.freepik.com/home : Website untuk mencari template tampilan website, gambar, dan icon
+15. https://www.figma.com/files/recent?fuid=1057233800240104890 : Website untuk mengambil sebagian tampilan template website
 
 ~ Tulisan ~
 1. https://fonts.google.com/ : Website untuk mencari tampilan tulisan bagus dari google (1)
