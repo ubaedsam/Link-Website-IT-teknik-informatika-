@@ -9,10 +9,12 @@ Link Bantu Pembuatan Website Developer :
 7. https://sass-lang.com/documentation : Panduan Website untuk tampilan website dengan SASS CSS
 8. https://carbon.now.sh/ : Website untuk memperbaiki script codingan yang error
 9. https://nodejs.org/en/ : Website untuk melihat penggunaan dokumentasi nodeJS
+10. https://www.npmjs.com/ : Website untuk mencari Package NPM nodeJS untuk proses pengelolaan data pada website
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
 2. https://laravel.com/docs/8.x : Website untuk membuat Framework laravel.
+3. https://expressjs.com/ : Website untuk membuat Framework ExpressJS Dengan sistem NodeJS
 
 ~ Template ~
 1. https://adminlte.io/ : website gratis untuk download contoh template website
