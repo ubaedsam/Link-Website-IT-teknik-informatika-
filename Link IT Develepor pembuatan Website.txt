@@ -36,6 +36,16 @@ Link Website untuk panduan membuat website dan ekstensi proses website :
 7. https://docs.guzzlephp.org/en/stable/overview.html#installation : website untuk panduan membuat rest client server API
 8. https://overapi.com/ : Panduan Untuk source code Web developer
 9. http://shouldiprefix.com/ : Panduan untuk script CSS yang wajib menammbahkan keterangan prefix
+10. https://replit.com/ : Website untuk menyimpan hasil codingan
+11. https://devdocs.io/ : Website untuk mencari dokumentasi script dari bahasa pemrogramman
+12. https://devhints.io/ : Website untuk mencari dokumentasi sebuah fungsi script dari bahasa pemogramman
+13. chrome://extensions/ : ini bukan website tapi setingan extensi browser chrome untuk memudahkan web developer dalam melihat hasil website.
+Data Extensinya :
+- JSONview : untuk melihat tampilan data JSON pada browser.
+- Web Developer : untuk melihat jika di dalam website tidak terdapat sistem di dalamnya.
+- Wappalyzer : untuk melihat website yang di dalamnya menggunakan teknologi apa
+- Awesome Screenshot : untuk menscreenshot full halaman pada website atau program yang lain
+- WhatFont : untuk melihat tipe tulisan seperti apa pada website atau program yang lain
 
 Link membuat tampilan Website Develepor :
 ~ CSS dan HTML ~
@@ -60,9 +70,15 @@ Link membuat tampilan Website Develepor :
 19. https://darekkay.com/projects/ : Website untuk membuat tampilan CSS Flet-box dan lain
 20. https://colorspectrum.design/generator.html : Website untuk membuat tampilan CSS UI/UX
 21. https://svgwave.in/ : Website untuk mencari wave gelombang warna tampilan website
+22. https://coolors.co/palettes/trending : Website untuk mencari kombinasi warna yang bagus untuk tampilan website (1)
+23. https://colorhunt.co/ : Website untuk mencari kombinasi warna yang bagus untuk tampilan website (2)
+24. https://color.adobe.com/trends : Website untuk mencari kombinasi warna yang bagus untuk tampilan website (3)
+25. https://dribbble.com/ : Website untuk mencari referensi inspirasi tampilan web design dari hasil web design orang lain (1)
+26. https://www.awwwards.com/ : Website untuk mencari referensi inspirasi tampilan web design dari hasil web design orang lain (2)
+27. https://www.siteinspire.com/ : Website untuk mencari referensi inspirasi tampilan web design dari hasil web design orang lain (3)
 
 ~ Gambar, Video, dan Icon ~
-1. https://unsplash.com/ : Website untuk mengambil gambar tanpa takut copyright.
+1. https://unsplash.com/ : Website untuk mengambil gambar, icon, dan video tanpa takut copyright.
 2. https://www.vecteezy.com/ : website untuk mencari background PNG yang bagus
 3. https://www.flaticon.com/ : website untuk mencari icon PNG yang bagus 1
 4. https://pngtree.com/ : website untuk mencari icon PNG yang bagus 2
@@ -78,6 +94,12 @@ Link membuat tampilan Website Develepor :
 14. https://www.freepik.com/home : Website untuk mencari template tampilan website, gambar, dan icon
 15. https://www.figma.com/files/recent?fuid=1057233800240104890 : Website untuk mengambil sebagian tampilan template website
 16. https://squoosh.app/ : Website untuk merubah ukuran sebuah gambar
+17. https://www.pexels.com/id-id/ : Website untuk mencari gambar, icon, dan video
+18. https://pixabay.com/ : Website untuk mencari gambar, icon, video, music, dan gambar ilustrasi
+19. https://undraw.co/illustrations : Website untuk mencari gambar ilustrasi website
+20. https://craftwork.design/downloads/category/illustrations/ : Website untuk mencari gambar ilustrasi website
+21. https://mockuphone.com/device : Website untuk melihat tampilan website secara responsive bisa di semua device
+22. https://www.remove.bg/ : Website untuk menghapus background dari gambar
 
 ~ Tulisan ~
 1. https://fonts.google.com/ : Website untuk mencari tampilan tulisan bagus dari google (1)
