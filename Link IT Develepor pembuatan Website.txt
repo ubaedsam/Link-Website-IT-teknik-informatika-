@@ -76,6 +76,7 @@ Link membuat tampilan Website Develepor :
 25. https://dribbble.com/ : Website untuk mencari referensi inspirasi tampilan web design dari hasil web design orang lain (1)
 26. https://www.awwwards.com/ : Website untuk mencari referensi inspirasi tampilan web design dari hasil web design orang lain (2)
 27. https://www.siteinspire.com/ : Website untuk mencari referensi inspirasi tampilan web design dari hasil web design orang lain (3)
+28. https://tailwindcss.com/docs/transition-property : Website untuk mempercantik website dengan CSS
 
 ~ Gambar, Video, dan Icon ~
 1. https://unsplash.com/ : Website untuk mengambil gambar, icon, dan video tanpa takut copyright.
