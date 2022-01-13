@@ -77,6 +77,9 @@ Link membuat tampilan Website Develepor :
 26. https://www.awwwards.com/ : Website untuk mencari referensi inspirasi tampilan web design dari hasil web design orang lain (2)
 27. https://www.siteinspire.com/ : Website untuk mencari referensi inspirasi tampilan web design dari hasil web design orang lain (3)
 28. https://tailwindcss.com/docs/transition-property : Website untuk mempercantik website dengan CSS
+29. https://michalsnik.github.io/aos/ : website untuk membuat efek animasi pada website menggunakan library AOS
+30. https://greensock.com/get-started/ : Website untuk membuat efek animasi pada website menggunakan GSAP
+31. https://greensock.com/docs/v3/Installation?checked=core,text#CDN : Website untuk installasi membuat efek animasi pada website menggunakan GSAP
 
 ~ Gambar, Video, dan Icon ~
 1. https://unsplash.com/ : Website untuk mengambil gambar, icon, dan video tanpa takut copyright.
@@ -132,6 +135,7 @@ Link Github Untuk referensi data website :
 13. https://github.com/Sirneij/carrotsuite-admin-ui : Github untuk template UI/UX dan bisa juga untuk website
 14. https://github.com/adamgiebl : Github untuk melihat hasil tampilan CSS
 15. https://github.com/thedaviddias : Github untuk melihat referensi project javascript
+16. https://github.com/michalsnik/aos : Github untuk melihat dokumentasi dari efek animasi menggunakan AOS
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
