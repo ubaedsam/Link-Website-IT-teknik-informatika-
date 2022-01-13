@@ -136,6 +136,7 @@ Link Github Untuk referensi data website :
 14. https://github.com/adamgiebl : Github untuk melihat hasil tampilan CSS
 15. https://github.com/thedaviddias : Github untuk melihat referensi project javascript
 16. https://github.com/michalsnik/aos : Github untuk melihat dokumentasi dari efek animasi menggunakan AOS
+17. https://github.com/jamiewilson/form-to-google-sheets : Github untuk membuat sistem menyimpan data contact form ke dalam google spreedsheet
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
