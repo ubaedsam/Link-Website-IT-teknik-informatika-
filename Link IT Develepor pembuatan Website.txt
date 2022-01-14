@@ -12,6 +12,7 @@ Link Bantu Pembuatan Website Developer :
 10. https://www.npmjs.com/ : Website untuk mencari Package NPM nodeJS untuk proses pengelolaan data pada website
 11. https://expressjs.com/en/guide/using-middleware.html : Website untuk mengetahui proses middleware dari framework expressJS (WEB SERVER)
 12. https://www.mongodb.com/ : Webiste untuk mempelajari Database MongoDB
+13. https://tailwindcss.com/docs/transition-property : Website untuk mempercantik website dengan CSS
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
