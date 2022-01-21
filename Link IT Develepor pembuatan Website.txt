@@ -13,6 +13,7 @@ Link Bantu Pembuatan Website Developer :
 11. https://expressjs.com/en/guide/using-middleware.html : Website untuk mengetahui proses middleware dari framework expressJS (WEB SERVER)
 12. https://www.mongodb.com/ : Webiste untuk mempelajari Database MongoDB
 13. https://tailwindcss.com/docs/transition-property : Website untuk mempercantik website dengan CSS
+14. https://getbootstrap.com/docs/5.1/getting-started/introduction/ : website untuk mencari tampilan website menggunakan framework bootstrap
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
@@ -81,6 +82,7 @@ Link membuat tampilan Website Develepor :
 29. https://michalsnik.github.io/aos/ : website untuk membuat efek animasi pada website menggunakan library AOS
 30. https://greensock.com/get-started/ : Website untuk membuat efek animasi pada website menggunakan GSAP
 31. https://greensock.com/docs/v3/Installation?checked=core,text#CDN : Website untuk installasi membuat efek animasi pada website menggunakan GSAP
+32. https://micku7zu.github.io/vanilla-tilt.js/ : Website untuk membuat efek animasi 3D dengan tilt javascript
 
 ~ Gambar, Video, dan Icon ~
 1. https://unsplash.com/ : Website untuk mengambil gambar, icon, dan video tanpa takut copyright.
