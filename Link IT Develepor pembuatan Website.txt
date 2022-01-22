@@ -107,6 +107,7 @@ Link membuat tampilan Website Develepor :
 20. https://craftwork.design/downloads/category/illustrations/ : Website untuk mencari gambar ilustrasi website
 21. https://mockuphone.com/device : Website untuk melihat tampilan website secara responsive bisa di semua device
 22. https://www.remove.bg/ : Website untuk menghapus background dari gambar
+23. https://favicomatic.com/ : Website untuk membuat favicon sebuah website agar bisa muncul di semua device (setelah mendownload masukan semua script file txt ke dalam program yang dibuat agar bisa berjalan
 
 ~ Tulisan ~
 1. https://fonts.google.com/ : Website untuk mencari tampilan tulisan bagus dari google (1)
