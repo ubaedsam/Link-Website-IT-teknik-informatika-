@@ -14,6 +14,7 @@ Link Bantu Pembuatan Website Developer :
 12. https://www.mongodb.com/ : Webiste untuk mempelajari Database MongoDB
 13. https://tailwindcss.com/docs/transition-property : Website untuk mempercantik website dengan CSS
 14. https://getbootstrap.com/docs/5.1/getting-started/introduction/ : website untuk mencari tampilan website menggunakan framework bootstrap
+15. http://www.omdbapi.com/ : Untuk membuat data akun API Key sendiri
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
