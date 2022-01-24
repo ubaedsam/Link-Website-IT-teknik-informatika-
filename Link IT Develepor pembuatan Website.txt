@@ -15,6 +15,7 @@ Link Bantu Pembuatan Website Developer :
 13. https://tailwindcss.com/docs/transition-property : Website untuk mempercantik website dengan CSS
 14. https://getbootstrap.com/docs/5.1/getting-started/introduction/ : website untuk mencari tampilan website menggunakan framework bootstrap
 15. http://www.omdbapi.com/ : Untuk membuat data akun API Key sendiri
+16. https://fun-javascript-projects.com/ : Website untuk mencari data project javascript yang sudah dibuat
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
@@ -151,6 +152,7 @@ Link Website Aplikasi Server Data API ( Rest API ) :
 5. https://developers.google.com/ : Website untuk menghubungkan ke server API Google ( youtube, dll )
 6. https://www.instagram.com/developer/ : Website untuk menghubungkan ke server API Instagram
 7. https://rajaongkir.com/akun/daftar : Website API untuk menambahkan fitur solusi pembayaran
+8. https://m3o.com/?search=&categories= : Website untuk mencari referensi data project API menggunakan PHP Curl
 
 Link Website Template Framework E-Commerce :
 1. https://www.opencart.com/ : Website Open-souce Download Template Framework open cart (PHP Versi 5+)
