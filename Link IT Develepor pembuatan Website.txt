@@ -16,6 +16,8 @@ Link Bantu Pembuatan Website Developer :
 14. https://getbootstrap.com/docs/5.1/getting-started/introduction/ : website untuk mencari tampilan website menggunakan framework bootstrap
 15. http://www.omdbapi.com/ : Untuk membuat data akun API Key sendiri
 16. https://fun-javascript-projects.com/ : Website untuk mencari data project javascript yang sudah dibuat
+17. https://htmlcheatsheet.com/ : Website untuk mengetahui data semua script bahasa HTML,CSS,JS,JQuery,AMP,Dan SEO
+18. https://cssreference.io/ : Website untuk mencari semua data script css untuk tampilan website yang bagus
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
@@ -38,7 +40,7 @@ Link Website untuk panduan membuat website dan ekstensi proses website :
 5. https://eloquentjavascript.net/ : Website pedoman fungsi javascript.
 6. https://code.jquery.com/ : Website untuk extensi cdn jquery ( Mengambil Server Jquery )
 7. https://docs.guzzlephp.org/en/stable/overview.html#installation : website untuk panduan membuat rest client server API
-8. https://overapi.com/ : Panduan Untuk source code Web developer
+8. https://overapi.com/ : Panduan Untuk source code bahasa pemogrammman Web developer
 9. http://shouldiprefix.com/ : Panduan untuk script CSS yang wajib menammbahkan keterangan prefix
 10. https://replit.com/ : Website untuk menyimpan hasil codingan
 11. https://devdocs.io/ : Website untuk mencari dokumentasi script dari bahasa pemrogramman
@@ -85,6 +87,9 @@ Link membuat tampilan Website Develepor :
 30. https://greensock.com/get-started/ : Website untuk membuat efek animasi pada website menggunakan GSAP
 31. https://greensock.com/docs/v3/Installation?checked=core,text#CDN : Website untuk installasi membuat efek animasi pada website menggunakan GSAP
 32. https://micku7zu.github.io/vanilla-tilt.js/ : Website untuk membuat efek animasi 3D dengan tilt javascript
+33. https://bulma.io/documentation/overview/start/ : Website untuk mencari data script CSS buat tampilan website
+34. https://get.foundation/frameworks-docs.html : Website untuk mencari data script CSS buat tampilan website dan aneka tampilan CSS
+35. https://materializecss.com/getting-started.html : Website untuk mencari data script CSS buat tampilan website dan template website
 
 ~ Gambar, Video, dan Icon ~
 1. https://unsplash.com/ : Website untuk mengambil gambar, icon, dan video tanpa takut copyright.
