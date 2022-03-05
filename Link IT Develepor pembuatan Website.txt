@@ -90,6 +90,8 @@ Link membuat tampilan Website Develepor :
 33. https://bulma.io/documentation/overview/start/ : Website untuk mencari data script CSS buat tampilan website
 34. https://get.foundation/frameworks-docs.html : Website untuk mencari data script CSS buat tampilan website dan aneka tampilan CSS
 35. https://materializecss.com/getting-started.html : Website untuk mencari data script CSS buat tampilan website dan template website
+36. https://animista.net/play/basic/scale-down : Website untuk membuat efek animasi di website
+37. https://www.eggradients.com/ : Website untuk melihat warna gradient background yang bagus
 
 ~ Gambar, Video, dan Icon ~
 1. https://unsplash.com/ : Website untuk mengambil gambar, icon, dan video tanpa takut copyright.
@@ -165,6 +167,7 @@ Link Website Template Framework E-Commerce :
 
 Link Website untuk membeli template website berbayar :
 1. https://www.templatemonster.com/ : Website penyedia untuk membeli template website secara berbayar.
+2. https://cruip.com/ : Website penyedia untuk membeli template vueJS dan ReactJS website secara berbayar
 
 Link Website untuk membeli template website gratis :
 1. https://zyro.com/id?utm_source=WPU&utm_medium=influencers&utm_campaign=integration&utm_content=video : Website penyedia untuk membeli template website secara gratis.
@@ -179,6 +182,9 @@ Link Website untuk membuat template website sendiri
 3. https://www.antfolio.app/ : Website penyedia Template website landing page gratis
 4. https://versoly.com/ : Website penyedia Template website landing page gratis
 5. https://convertkit.com/ : Website penyedia Template website landing page gratis
+6. https://html5up.net/ : Website penyedia template HTML5 gratis
+7. https://onepagelove.com/templates/free-templates : Website penyedia template HTML5 gratis
+8. https://colorlib.com/wp/themes/tyche/ : Website penyedia template HTML5 Gratis
 
 Link Website untuk tes belajar Web Developer :
 1. https://www.sololearn.com/learning/1014/1021/1027/2 : Website untuk pembelajaran test Web Developer
