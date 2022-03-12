@@ -18,6 +18,7 @@ Link Bantu Pembuatan Website Developer :
 16. https://fun-javascript-projects.com/ : Website untuk mencari data project javascript yang sudah dibuat
 17. https://htmlcheatsheet.com/ : Website untuk mengetahui data semua script bahasa HTML,CSS,JS,JQuery,AMP,Dan SEO
 18. https://cssreference.io/ : Website untuk mencari semua data script css untuk tampilan website yang bagus
+19. https://fixer.io/documentation : Website untuk mengetahui fungsi pembuatan API
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
@@ -150,6 +151,7 @@ Link Github Untuk referensi data website :
 15. https://github.com/thedaviddias : Github untuk melihat referensi project javascript
 16. https://github.com/michalsnik/aos : Github untuk melihat dokumentasi dari efek animasi menggunakan AOS
 17. https://github.com/jamiewilson/form-to-google-sheets : Github untuk membuat sistem menyimpan data contact form ke dalam google spreedsheet
+18. https://github.com/keikaavousi/fake-store-api : Github untuk membantu pembuatan website e-commerce
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
@@ -160,6 +162,13 @@ Link Website Aplikasi Server Data API ( Rest API ) :
 6. https://www.instagram.com/developer/ : Website untuk menghubungkan ke server API Instagram
 7. https://rajaongkir.com/akun/daftar : Website API untuk menambahkan fitur solusi pembayaran
 8. https://m3o.com/?search=&categories= : Website untuk mencari referensi data project API menggunakan PHP Curl
+9. https://fixer.io/documentation : Website untuk mengetahui fungsi pembuatan API
+10. https://spoonacular.com/food-api/docs : Website untuk mengetahui daftar makanan
+11. https://gnews.io/docs/v4#introduction : Website untuk mengetahui news article di google
+12. https://fakestoreapi.com/ : Website untuk membantu pembuatan website e-commerce
+13. https://randomuser.me/ : Website untuk mencari data random user sebagai contoh
+14. https://developer.spotify.com/documentation/web-api/ : Website untuk mencari data di spotify
+15. https://freegeoip.app/#documentation : Website untuk mencari data IP address
 
 Link Website Template Framework E-Commerce :
 1. https://www.opencart.com/ : Website Open-souce Download Template Framework open cart (PHP Versi 5+)
@@ -185,6 +194,7 @@ Link Website untuk membuat template website sendiri
 6. https://html5up.net/ : Website penyedia template HTML5 gratis
 7. https://onepagelove.com/templates/free-templates : Website penyedia template HTML5 gratis
 8. https://colorlib.com/wp/themes/tyche/ : Website penyedia template HTML5 Gratis
+9. https://www.free-css.com/ : Website penyedia template website gratis
 
 Link Website untuk tes belajar Web Developer :
 1. https://www.sololearn.com/learning/1014/1021/1027/2 : Website untuk pembelajaran test Web Developer
