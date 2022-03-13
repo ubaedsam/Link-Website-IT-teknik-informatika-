@@ -25,6 +25,9 @@ Link Bantu Pembuatan Website Developer :
 2. https://laravel.com/docs/8.x : Website untuk membuat Framework laravel.
 3. https://expressjs.com/ : Website untuk membuat Framework ExpressJS Dengan sistem NodeJS (WEB SERVER)
 
+~ Data untuk membantu pembuatan website di codeigniter 3 ~
+1. https://webnyait.blogspot.com/2020/11/tutorial-codeigniter-3-membuat-import.html?m=1 : Website untuk mengimport data excel ke website
+
 ~ Template ~
 1. https://adminlte.io/ : website gratis untuk download contoh template website
 2. https://startbootstrap.com/theme/sb-admin-2 : website gratis untuk download template admin.
