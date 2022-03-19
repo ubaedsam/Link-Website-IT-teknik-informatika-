@@ -35,6 +35,7 @@ Link Bantu Pembuatan Website Developer :
 4. https://github.com/ : Website untuk menyimpan data hasil membuat website dan bisa juga sebagai akses membuat website bersama-sama.
 5. https://colorlib.com/wp/templates/ : website berbayar untuk download contoh template website
 6. https://themewagon.com/theme-price/free/ : website gratis untuk download contoh template website
+7. https://themeforest.net/item/hound-the-ultimate-multipurpose-admin-template/20212596 : website berbayar untuk download contoh template website
 
 Link Website untuk panduan membuat website dan ekstensi proses website :
 1. https://cdnjs.com/libraries/font-awesome : Website untuk ekstensi tipe tulisan pada website.
@@ -56,6 +57,7 @@ Data Extensinya :
 - Wappalyzer : untuk melihat website yang di dalamnya menggunakan teknologi apa
 - Awesome Screenshot : untuk menscreenshot full halaman pada website atau program yang lain
 - WhatFont : untuk melihat tipe tulisan seperti apa pada website atau program yang lain
+14. https://docs.guzzlephp.org/en/stable/ : Website untuk membantu dalam konfigurasi pembuatan website
 
 Link membuat tampilan Website Develepor :
 ~ CSS dan HTML ~
@@ -172,6 +174,8 @@ Link Website Aplikasi Server Data API ( Rest API ) :
 13. https://randomuser.me/ : Website untuk mencari data random user sebagai contoh
 14. https://developer.spotify.com/documentation/web-api/ : Website untuk mencari data di spotify
 15. https://freegeoip.app/#documentation : Website untuk mencari data IP address
+16. https://developer.mobilepulsa.net/ : Website API untuk membuat website e-commerce top-up game dan lain-lain
+17. https://developer.bca.co.id/ : Website API untuk menghubungkan sistem website ke dalam BANK BCA (Membantu dalam berjualan : E-commerce)
 
 Link Website Template Framework E-Commerce :
 1. https://www.opencart.com/ : Website Open-souce Download Template Framework open cart (PHP Versi 5+)
