@@ -158,6 +158,8 @@ Link Github Untuk referensi data website :
 16. https://github.com/michalsnik/aos : Github untuk melihat dokumentasi dari efek animasi menggunakan AOS
 17. https://github.com/jamiewilson/form-to-google-sheets : Github untuk membuat sistem menyimpan data contact form ke dalam google spreedsheet
 18. https://github.com/keikaavousi/fake-store-api : Github untuk membantu pembuatan website e-commerce
+19. https://github.com/DeaVenditama : Github untuk mencari referensi data Codeigniter 4
+20. https://github.com/jamekjamek : Github untuk mencari referensi data Codeigniter 3
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
@@ -177,6 +179,7 @@ Link Website Aplikasi Server Data API ( Rest API ) :
 15. https://freegeoip.app/#documentation : Website untuk mencari data IP address
 16. https://developer.mobilepulsa.net/ : Website API untuk membuat website e-commerce top-up game dan lain-lain
 17. https://developer.bca.co.id/ : Website API untuk menghubungkan sistem website ke dalam BANK BCA (Membantu dalam berjualan : E-commerce)
+18. https://dashboard.midtrans.com/login : Website API untuk membantu pembuatan website E-Commerce
 
 Link Website Template Framework E-Commerce :
 1. https://www.opencart.com/ : Website Open-souce Download Template Framework open cart (PHP Versi 5+)
