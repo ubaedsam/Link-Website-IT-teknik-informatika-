@@ -180,6 +180,7 @@ Link Website Aplikasi Server Data API ( Rest API ) :
 16. https://developer.mobilepulsa.net/ : Website API untuk membuat website e-commerce top-up game dan lain-lain
 17. https://developer.bca.co.id/ : Website API untuk menghubungkan sistem website ke dalam BANK BCA (Membantu dalam berjualan : E-commerce)
 18. https://dashboard.midtrans.com/login : Website API untuk membantu pembuatan website E-Commerce
+19. https://simulator.sandbox.midtrans.com/bca/klikbca/index : Website simulator untuk menyelesaikan pembayaran online midtrans (Sandbox)
 
 Link Website Template Framework E-Commerce :
 1. https://www.opencart.com/ : Website Open-souce Download Template Framework open cart (PHP Versi 5+)
