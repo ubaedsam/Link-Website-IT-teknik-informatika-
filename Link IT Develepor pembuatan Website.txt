@@ -20,6 +20,7 @@ Link Bantu Pembuatan Website Developer :
 18. https://cssreference.io/ : Website untuk mencari semua data script css untuk tampilan website yang bagus
 19. https://fixer.io/documentation : Website untuk mengetahui fungsi pembuatan API
 20. https://balsamiq.com/wireframes/desktop/# : Website untuk mendownload Aplikasi Balsamig (Untuk merancang Desain User Interface Website)
+21. https://www.kashipara.com/ : Website untuk melihat contoh website dengan semua tema yang telah dibuat
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
