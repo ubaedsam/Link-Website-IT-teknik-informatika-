@@ -100,6 +100,7 @@ Link membuat tampilan Website Develepor :
 35. https://materializecss.com/getting-started.html : Website untuk mencari data script CSS buat tampilan website dan template website
 36. https://animista.net/play/basic/scale-down : Website untuk membuat efek animasi di website
 37. https://www.eggradients.com/ : Website untuk melihat warna gradient background yang bagus
+38. https://www.highcharts.com/demo : Website untuk memakai data grafik
 
 ~ Gambar, Video, dan Icon ~
 1. https://unsplash.com/ : Website untuk mengambil gambar, icon, dan video tanpa takut copyright.
@@ -165,6 +166,9 @@ Link Github Untuk referensi data website :
 20. https://github.com/jamekjamek : Github untuk mencari referensi data Codeigniter 3
 21. https://moment.github.io/luxon/#/?id=getting-started : Github data javascript untuk mencari data keterangan waktu
 22. https://github.com/box/spout : Github untuk mendownload libraries upload data file excel ke dalam website
+23. https://github.com/picqer/php-barcode-generator : Github untuk memakai Data library Bar Code
+24. https://github.com/endroid/qr-code : Github untuk memakai Data library QR Code
+25. https://mpdf.github.io/installation-setup/installation-v7-x.html: Website Github untuk memakai Data library MPDF
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
