@@ -101,6 +101,7 @@ Link membuat tampilan Website Develepor :
 36. https://animista.net/play/basic/scale-down : Website untuk membuat efek animasi di website
 37. https://www.eggradients.com/ : Website untuk melihat warna gradient background yang bagus
 38. https://www.highcharts.com/demo : Website untuk memakai data grafik
+39. https://threejs.org/ : Website untuk membuat animasi 3D Object Model
 
 ~ Gambar, Video, dan Icon ~
 1. https://unsplash.com/ : Website untuk mengambil gambar, icon, dan video tanpa takut copyright.
@@ -128,6 +129,8 @@ Link membuat tampilan Website Develepor :
 23. https://favicomatic.com/ : Website untuk membuat favicon sebuah website agar bisa muncul di semua device (setelah mendownload masukan semua script file txt ke dalam program yang dibuat agar bisa berjalan
 24. https://www.blobmaker.app/ : Website untuk membuat tampilan svg bloop (becek)
 25. https://simpleicons.org/ : Website untuk mencari icon svg
+26. https://sketchfab.com/feed : Website untuk mengambil object 3D Model
+27. https://app.diagrams.net/ : Website untuk membuat diagram
 
 ~ Tulisan ~
 1. https://fonts.google.com/ : Website untuk mencari tampilan tulisan bagus dari google (1)
@@ -169,6 +172,9 @@ Link Github Untuk referensi data website :
 23. https://github.com/picqer/php-barcode-generator : Github untuk memakai Data library Bar Code
 24. https://github.com/endroid/qr-code : Github untuk memakai Data library QR Code
 25. https://mpdf.github.io/installation-setup/installation-v7-x.html: Website Github untuk memakai Data library MPDF
+26. https://github.com/benedmunds/CodeIgniter-Ion-Auth : Github untuk memakai data library Ion auth
+27. https://github.com/arfandotid/ujian-online-ci : Github untuk mendownload website CBT Ujian online test
+28. https://github.com/spyder-s/admin-template-zuramai-mazer : Github untuk mendownload template website
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
