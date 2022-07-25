@@ -177,6 +177,10 @@ Link Github Untuk referensi data website :
 26. https://github.com/benedmunds/CodeIgniter-Ion-Auth : Github untuk memakai data library Ion auth
 27. https://github.com/arfandotid/ujian-online-ci : Github untuk mendownload website CBT Ujian online test
 28. https://github.com/spyder-s/admin-template-zuramai-mazer : Github untuk mendownload template website
+29. https://github.com/themekita/azzara-admin-dashboard-template : Github untuk mendownload template website
+30. https://github.com/ngekoding?tab=repositories : Github untuk melihat data tentang web development
+31. https://github.com/afarhansib/wabill : Github untuk membuat pesan whatsapp bot
+32. https://github.com/nian88/whatsapp-api : Github untuk membuat whatsapp bot dengan API Javascript
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
