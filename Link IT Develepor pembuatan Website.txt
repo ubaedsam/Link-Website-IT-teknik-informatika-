@@ -21,6 +21,7 @@ Link Bantu Pembuatan Website Developer :
 19. https://fixer.io/documentation : Website untuk mengetahui fungsi pembuatan API
 20. https://balsamiq.com/wireframes/desktop/# : Website untuk mendownload Aplikasi Balsamig (Untuk merancang Desain User Interface Website)
 21. https://www.kashipara.com/ : Website untuk melihat contoh website dengan semua tema yang telah dibuat
+22. https://html.spec.whatwg.org/multipage/canvas.html#the-canvas-element : Website untuk mengetahui tentang pengembangan HTML mulai dari HTML5
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
@@ -102,6 +103,7 @@ Link membuat tampilan Website Develepor :
 37. https://www.eggradients.com/ : Website untuk melihat warna gradient background yang bagus
 38. https://www.highcharts.com/demo : Website untuk memakai data grafik
 39. https://threejs.org/ : Website untuk membuat animasi 3D Object Model
+40. https://cssgradient.io/gradient-backgrounds/ : website untuk mencari background gradient
 
 ~ Gambar, Video, dan Icon ~
 1. https://unsplash.com/ : Website untuk mengambil gambar, icon, dan video tanpa takut copyright.
