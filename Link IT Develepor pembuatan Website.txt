@@ -133,6 +133,8 @@ Link membuat tampilan Website Develepor :
 25. https://simpleicons.org/ : Website untuk mencari icon svg
 26. https://sketchfab.com/feed : Website untuk mengambil object 3D Model
 27. https://app.diagrams.net/ : Website untuk membuat diagram
+28. https://www.svgrepo.com/ : Website untuk mencari bentuk gambar SVG
+29. https://www.shapedivider.app/ : Website untuk membuat costum bentuk gambar svg
 
 ~ Tulisan ~
 1. https://fonts.google.com/ : Website untuk mencari tampilan tulisan bagus dari google (1)
