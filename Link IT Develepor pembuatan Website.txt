@@ -23,6 +23,7 @@ Link Bantu Pembuatan Website Developer :
 21. https://www.kashipara.com/ : Website untuk melihat contoh website dengan semua tema yang telah dibuat
 22. https://html.spec.whatwg.org/multipage/canvas.html#the-canvas-element : Website untuk mengetahui tentang pengembangan HTML mulai dari HTML5
 23. https://webpack.js.org/ : website untuk melihat dokumentasi pembuatan webpack di dalam program
+24. https://www.python.org/downloads/ : Website untuk dokumentasi bahasa pemogramman python dan download python
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
