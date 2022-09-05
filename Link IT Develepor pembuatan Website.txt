@@ -22,6 +22,7 @@ Link Bantu Pembuatan Website Developer :
 20. https://balsamiq.com/wireframes/desktop/# : Website untuk mendownload Aplikasi Balsamig (Untuk merancang Desain User Interface Website)
 21. https://www.kashipara.com/ : Website untuk melihat contoh website dengan semua tema yang telah dibuat
 22. https://html.spec.whatwg.org/multipage/canvas.html#the-canvas-element : Website untuk mengetahui tentang pengembangan HTML mulai dari HTML5
+23. https://webpack.js.org/ : website untuk melihat dokumentasi pembuatan webpack di dalam program
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
