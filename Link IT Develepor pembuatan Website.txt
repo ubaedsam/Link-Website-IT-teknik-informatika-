@@ -24,6 +24,7 @@ Link Bantu Pembuatan Website Developer :
 22. https://html.spec.whatwg.org/multipage/canvas.html#the-canvas-element : Website untuk mengetahui tentang pengembangan HTML mulai dari HTML5
 23. https://webpack.js.org/ : website untuk melihat dokumentasi pembuatan webpack di dalam program
 24. https://www.python.org/downloads/ : Website untuk dokumentasi bahasa pemogramman python dan download python
+25. https://downloads.mysql.com/archives/workbench/ : Website untuk mendownload mysql workbench
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
@@ -32,6 +33,9 @@ Link Bantu Pembuatan Website Developer :
 
 ~ Data untuk membantu pembuatan website di codeigniter 3 ~
 1. https://webnyait.blogspot.com/2020/11/tutorial-codeigniter-3-membuat-import.html?m=1 : Website untuk mengimport data excel ke website
+
+~ Data untuk membantu pembuaan website di Laravel 8 ~
+1. https://packagist.org/packages/cretueusebiu/valet-windows : Website untuk merubah url jika masuk ke dalam program framework laravel jadinya jika membuka programnya bukan 127.0.0.1 akan tetapi websiteku.valet
 
 ~ Template ~
 1. https://adminlte.io/ : website gratis untuk download contoh template website
