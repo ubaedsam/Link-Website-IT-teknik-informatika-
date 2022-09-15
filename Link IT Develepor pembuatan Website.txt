@@ -189,6 +189,7 @@ Link Github Untuk referensi data website :
 30. https://github.com/ngekoding?tab=repositories : Github untuk melihat data tentang web development
 31. https://github.com/afarhansib/wabill : Github untuk membuat pesan whatsapp bot
 32. https://github.com/nian88/whatsapp-api : Github untuk membuat whatsapp bot dengan API Javascript
+33. https://github.com/itsgoingd/clockwork : Github untuk menginstall clockwork di program framwork laravel yang berguna untuk mempercepat program
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
