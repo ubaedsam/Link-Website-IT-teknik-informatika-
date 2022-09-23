@@ -36,6 +36,7 @@ Link Bantu Pembuatan Website Developer :
 
 ~ Data untuk membantu pembuaan website di Laravel 8 ~
 1. https://packagist.org/packages/cretueusebiu/valet-windows : Website untuk merubah url jika masuk ke dalam program framework laravel jadinya jika membuka programnya bukan 127.0.0.1 akan tetapi websiteku.valet
+2. https://github.com/cviebrock/eloquent-sluggable : Github untuk membuat slug otomatis pada form input (data yang tersambung satu sama lain tanpa spasi)
 
 ~ Template ~
 1. https://adminlte.io/ : website gratis untuk download contoh template website
@@ -190,6 +191,8 @@ Link Github Untuk referensi data website :
 31. https://github.com/afarhansib/wabill : Github untuk membuat pesan whatsapp bot
 32. https://github.com/nian88/whatsapp-api : Github untuk membuat whatsapp bot dengan API Javascript
 33. https://github.com/itsgoingd/clockwork : Github untuk menginstall clockwork di program framwork laravel yang berguna untuk mempercepat program
+34. https://github.com/basecamp/trix : Github untuk menggunakan library trix editor pada form input (agar isinya bisa di costum seperti di e-learning)
+35. https://github.com/cviebrock/eloquent-sluggable : Github untuk membuat slug otomatis pada form input (data yang tersambung satu sama lain tanpa spasi)
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
