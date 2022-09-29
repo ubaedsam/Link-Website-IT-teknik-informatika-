@@ -193,6 +193,7 @@ Link Github Untuk referensi data website :
 33. https://github.com/itsgoingd/clockwork : Github untuk menginstall clockwork di program framwork laravel yang berguna untuk mempercepat program
 34. https://github.com/basecamp/trix : Github untuk menggunakan library trix editor pada form input (agar isinya bisa di costum seperti di e-learning)
 35. https://github.com/cviebrock/eloquent-sluggable : Github untuk membuat slug otomatis pada form input (data yang tersambung satu sama lain tanpa spasi)
+36. https://github.com/ndeet/unzipper : Github untuk mengekstrak file zip pada file manager web hosting
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
