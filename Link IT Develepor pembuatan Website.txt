@@ -25,6 +25,8 @@ Link Bantu Pembuatan Website Developer :
 23. https://webpack.js.org/ : website untuk melihat dokumentasi pembuatan webpack di dalam program
 24. https://www.python.org/downloads/ : Website untuk dokumentasi bahasa pemogramman python dan download python
 25. https://downloads.mysql.com/archives/workbench/ : Website untuk mendownload mysql workbench
+26. https://devhints.io/ : Website untuk mengetahui data semua script tentang HTML, CSS, Javascript, PHP, DLL
+27. https://www.useblackbox.io/search : Website untuk mencari script untuk membantu pembuatan website
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
@@ -111,6 +113,7 @@ Link membuat tampilan Website Develepor :
 38. https://www.highcharts.com/demo : Website untuk memakai data grafik
 39. https://threejs.org/ : Website untuk membuat animasi 3D Object Model
 40. https://cssgradient.io/gradient-backgrounds/ : website untuk mencari background gradient
+41. https://animatedbackgrounds.me/ : Website untuk mencari animasi background 
 
 ~ Gambar, Video, dan Icon ~
 1. https://unsplash.com/ : Website untuk mengambil gambar, icon, dan video tanpa takut copyright.
@@ -215,6 +218,7 @@ Link Website Aplikasi Server Data API ( Rest API ) :
 17. https://developer.bca.co.id/ : Website API untuk menghubungkan sistem website ke dalam BANK BCA (Membantu dalam berjualan : E-commerce)
 18. https://dashboard.midtrans.com/login : Website API untuk membantu pembuatan website E-Commerce
 19. https://simulator.sandbox.midtrans.com/bca/klikbca/index : Website simulator untuk menyelesaikan pembayaran online midtrans (Sandbox)
+20. https://cartalyst.com/manual/stripe-laravel/13.x dan https://dashboard.stripe.com/test/dashboard : Website API untuk membantu pembayaran e-commerce lewat Kartu kredit luar negeri
 
 Link Website Template Framework E-Commerce :
 1. https://www.opencart.com/ : Website Open-souce Download Template Framework open cart (PHP Versi 5+)
