@@ -199,6 +199,7 @@ Link Github Untuk referensi data website :
 35. https://github.com/cviebrock/eloquent-sluggable : Github untuk membuat slug otomatis pada form input (data yang tersambung satu sama lain tanpa spasi)
 36. https://github.com/ndeet/unzipper : Github untuk mengekstrak file zip pada file manager web hosting
 37. https://github.com/stisla/stisla : Github untuk mendownload template website stisla Bootstrap versi 4
+38. https://github.com/kelasterbuka : Github untuk pembelajaran Pemogramman
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
