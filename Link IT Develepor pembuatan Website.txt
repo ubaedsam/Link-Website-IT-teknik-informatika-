@@ -48,6 +48,7 @@ Link Bantu Pembuatan Website Developer :
 5. https://colorlib.com/wp/templates/ : website berbayar untuk download contoh template website
 6. https://themewagon.com/theme-price/free/ : website gratis untuk download contoh template website
 7. https://themeforest.net/item/hound-the-ultimate-multipurpose-admin-template/20212596 : website berbayar untuk download contoh template website
+8. https://github.com/stisla/stisla : Github untuk mendownload template website stisla Bootstrap versi 4
 
 Link Website untuk panduan membuat website dan ekstensi proses website :
 1. https://cdnjs.com/libraries/font-awesome : Website untuk ekstensi tipe tulisan pada website.
@@ -197,6 +198,7 @@ Link Github Untuk referensi data website :
 34. https://github.com/basecamp/trix : Github untuk menggunakan library trix editor pada form input (agar isinya bisa di costum seperti di e-learning)
 35. https://github.com/cviebrock/eloquent-sluggable : Github untuk membuat slug otomatis pada form input (data yang tersambung satu sama lain tanpa spasi)
 36. https://github.com/ndeet/unzipper : Github untuk mengekstrak file zip pada file manager web hosting
+37. https://github.com/stisla/stisla : Github untuk mendownload template website stisla Bootstrap versi 4
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
