@@ -115,7 +115,8 @@ Link membuat tampilan Website Develepor :
 38. https://www.highcharts.com/demo : Website untuk memakai data grafik
 39. https://threejs.org/ : Website untuk membuat animasi 3D Object Model
 40. https://cssgradient.io/gradient-backgrounds/ : website untuk mencari background gradient
-41. https://animatedbackgrounds.me/ : Website untuk mencari animasi background 
+41. https://animatedbackgrounds.me/ : Website untuk mencari animasi background
+42. https://react-bootstrap.github.io/components/alerts : Website struktur data dengan react js untuk mempercantik website dengan CSS ada 2 tipe 4.0 dan 5.0. 
 
 ~ Gambar, Video, dan Icon ~
 1. https://unsplash.com/ : Website untuk mengambil gambar, icon, dan video tanpa takut copyright.
