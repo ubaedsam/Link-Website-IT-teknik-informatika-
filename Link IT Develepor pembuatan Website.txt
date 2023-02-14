@@ -28,6 +28,7 @@ Link Bantu Pembuatan Website Developer :
 26. https://devhints.io/ : Website untuk mengetahui data semua script tentang HTML, CSS, Javascript, PHP, DLL
 27. https://www.useblackbox.io/search : Website untuk mencari script untuk membantu pembuatan website
 28. https://reactjs.org/docs/create-a-new-react-app.html : Website untuk melihat dokumentasi pembuatan progam menggunakan ReactJS
+29. https://releases.jquery.com/jquery/ : Website untuk melihat library javascript (JQuery) untuk membantu pembuatan program website
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
@@ -203,6 +204,7 @@ Link Github Untuk referensi data website :
 36. https://github.com/ndeet/unzipper : Github untuk mengekstrak file zip pada file manager web hosting
 37. https://github.com/stisla/stisla : Github untuk mendownload template website stisla Bootstrap versi 4
 38. https://github.com/kelasterbuka : Github untuk pembelajaran Pemogramman
+39. https://github.com/azishapidin/indoregion : Github untuk mengambil data semua wilayah indonesia
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
