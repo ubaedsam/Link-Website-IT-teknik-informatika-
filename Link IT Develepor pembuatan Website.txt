@@ -28,7 +28,8 @@ Link Bantu Pembuatan Website Developer :
 26. https://devhints.io/ : Website untuk mengetahui data semua script tentang HTML, CSS, Javascript, PHP, DLL
 27. https://www.useblackbox.io/search : Website untuk mencari script untuk membantu pembuatan website
 28. https://reactjs.org/docs/create-a-new-react-app.html : Website untuk melihat dokumentasi pembuatan progam menggunakan ReactJS
-29. https://releases.jquery.com/jquery/ : Website untuk melihat library javascript (JQuery) untuk membantu pembuatan program website
+29. https://releases.jquery.com/jquery/ : Website untuk melihat panduan library javascript (JQuery) untuk membantu pembuatan program website
+30. https://cdn.datatables.net/ : Website untuk melihat panduan library datatables untuk membantu pembuatan program website
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
