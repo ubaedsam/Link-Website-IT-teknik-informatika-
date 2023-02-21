@@ -30,6 +30,7 @@ Link Bantu Pembuatan Website Developer :
 28. https://reactjs.org/docs/create-a-new-react-app.html : Website untuk melihat dokumentasi pembuatan progam menggunakan ReactJS
 29. https://releases.jquery.com/jquery/ : Website untuk melihat panduan library javascript (JQuery) untuk membantu pembuatan program website
 30. https://cdn.datatables.net/ : Website untuk melihat panduan library datatables untuk membantu pembuatan program website
+31. https://laravel-livewire.com/docs/2.x/quickstart : Website untuk melihat panduan library Livewire untuk membantu pembuatan program website menggunakan framework laravel
 
 ~ Framework ~
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
