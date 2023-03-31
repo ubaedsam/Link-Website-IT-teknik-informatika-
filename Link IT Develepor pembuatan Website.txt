@@ -152,6 +152,7 @@ Link membuat tampilan Website Develepor :
 28. https://www.svgrepo.com/ : Website untuk mencari bentuk gambar SVG
 29. https://www.shapedivider.app/ : Website untuk membuat costum bentuk gambar svg
 30. https://undraw.co/search : Website untuk mencari gambar ilustrator PNG bagus untuk website atau aplikasi
+31. https://botika.online/TextToSpeech/ : Website untuk membuat suara audio
 
 ~ Tulisan ~
 1. https://fonts.google.com/ : Website untuk mencari tampilan tulisan bagus dari google (1)
