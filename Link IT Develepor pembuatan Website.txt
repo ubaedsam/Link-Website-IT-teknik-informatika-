@@ -40,7 +40,7 @@ Link Bantu Pembuatan Website Developer :
 ~ Data untuk membantu pembuatan website di codeigniter 3 ~
 1. https://webnyait.blogspot.com/2020/11/tutorial-codeigniter-3-membuat-import.html?m=1 : Website untuk mengimport data excel ke website
 
-~ Data untuk membantu pembuaan website di Laravel 8 ~
+~ Data untuk membantu pembuatan website di Laravel 8 ~
 1. https://packagist.org/packages/cretueusebiu/valet-windows : Website untuk merubah url jika masuk ke dalam program framework laravel jadinya jika membuka programnya bukan 127.0.0.1 akan tetapi websiteku.valet
 2. https://github.com/cviebrock/eloquent-sluggable : Github untuk membuat slug otomatis pada form input (data yang tersambung satu sama lain tanpa spasi)
 
@@ -54,7 +54,7 @@ Link Bantu Pembuatan Website Developer :
 7. https://themeforest.net/item/hound-the-ultimate-multipurpose-admin-template/20212596 : website berbayar untuk download contoh template website
 8. https://github.com/stisla/stisla : Github untuk mendownload template website stisla Bootstrap versi 4
 
-Link Website untuk panduan membuat website dan ekstensi proses website :
+Link Website untuk panduan membuat website dan ekstensi (library) proses website :
 1. https://cdnjs.com/libraries/font-awesome : Website untuk ekstensi tipe tulisan pada website.
 2. https://www.bootstrapcdn.com/ : Website untuk ekstensi tampilan website.
 3. https://pages.github.com/ : Website untuk panduan github maupun git pada repository file.
@@ -75,6 +75,8 @@ Data Extensinya :
 - Awesome Screenshot : untuk menscreenshot full halaman pada website atau program yang lain
 - WhatFont : untuk melihat tipe tulisan seperti apa pada website atau program yang lain
 14. https://docs.guzzlephp.org/en/stable/ : Website untuk membantu dalam konfigurasi pembuatan website
+15. https://leafletjs.com/examples/quick-start/ : Website untuk menggunakan library javascript untuk melihat lokasi object (orang) dalam radius
+16. https://cdnjs.com/libraries/webcamjs : Library cdn Webcam JS
 
 Link membuat tampilan Website Develepor :
 ~ CSS dan HTML ~
@@ -208,6 +210,8 @@ Link Github Untuk referensi data website :
 37. https://github.com/stisla/stisla : Github untuk mendownload template website stisla Bootstrap versi 4
 38. https://github.com/kelasterbuka : Github untuk pembelajaran Pemogramman
 39. https://github.com/azishapidin/indoregion : Github untuk mengambil data semua wilayah indonesia
+40. https://github.com/whyalwaysnuew : Github untuk melihat referensi project web developer yang sudah dibuat
+41. https://github.com/jwasham/coding-interview-university#sorting : Github untuk melihat referensi test coding interview
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
@@ -270,4 +274,3 @@ Link Website untuk membantu pembuatan program menggunakan react JS :
 1. https://v5.reactrouter.com/web/guides/quick-start : Website untuk membantu berpindah-pindah halaman di react JS
 2. https://github.com/axios/axios : Untuk membantu progam agar terhubung ke beberapa API (REST API)
 3. https://github.com/typicode/json-server : untuk menginstall json server di program
-4. 
