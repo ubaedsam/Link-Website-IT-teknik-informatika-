@@ -212,6 +212,7 @@ Link Github Untuk referensi data website :
 39. https://github.com/azishapidin/indoregion : Github untuk mengambil data semua wilayah indonesia
 40. https://github.com/whyalwaysnuew : Github untuk melihat referensi project web developer yang sudah dibuat
 41. https://github.com/jwasham/coding-interview-university#sorting : Github untuk melihat referensi test coding interview
+42. https://github.com/mberecall/ijaboCropTool : Github untuk crop gambar pada fitur upload gambar ke dalam website
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
