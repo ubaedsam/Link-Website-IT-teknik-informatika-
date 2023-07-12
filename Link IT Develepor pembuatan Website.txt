@@ -36,6 +36,8 @@ Link Bantu Pembuatan Website Developer :
 1. https://codeigniter.com/ : Website untuk membuat Framework codeigniter.
 2. https://laravel.com/docs/8.x : Website untuk membuat Framework laravel.
 3. https://expressjs.com/ : Website untuk membuat Framework ExpressJS Dengan sistem NodeJS (WEB SERVER)
+4. https://vuejs.org/ : Website untuk melihat dokumentasi framework vuejs untuk membantu pembuatan program website atau program yang lain
+5. https://nuxt.com/ : Website untuk melihat dokumentasi framework nuxtjs untuk membantu pembuatan program website atau program yang lain
 
 ~ Data untuk membantu pembuatan website di codeigniter 3 ~
 1. https://webnyait.blogspot.com/2020/11/tutorial-codeigniter-3-membuat-import.html?m=1 : Website untuk mengimport data excel ke website
