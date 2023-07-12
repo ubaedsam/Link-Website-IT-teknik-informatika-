@@ -79,6 +79,7 @@ Data Extensinya :
 14. https://docs.guzzlephp.org/en/stable/ : Website untuk membantu dalam konfigurasi pembuatan website
 15. https://leafletjs.com/examples/quick-start/ : Website untuk menggunakan library javascript untuk melihat lokasi object (orang) dalam radius
 16. https://cdnjs.com/libraries/webcamjs : Library cdn Webcam JS
+17. https://alpinejs.dev/essentials/installation : Library Javascript untuk membantu pembuatan website
 
 Link membuat tampilan Website Develepor :
 ~ CSS dan HTML ~
@@ -123,7 +124,9 @@ Link membuat tampilan Website Develepor :
 39. https://threejs.org/ : Website untuk membuat animasi 3D Object Model
 40. https://cssgradient.io/gradient-backgrounds/ : website untuk mencari background gradient
 41. https://animatedbackgrounds.me/ : Website untuk mencari animasi background
-42. https://react-bootstrap.github.io/components/alerts : Website struktur data dengan react js untuk mempercantik website dengan CSS ada 2 tipe 4.0 dan 5.0. 
+42. https://react-bootstrap.github.io/components/alerts : Website struktur data dengan react js untuk mempercantik website dengan CSS ada 2 tipe 4.0 dan 5.0.
+43. https://labs.danielcardoso.net/load-awesome/animations.html : Website mencari animasi loading untuk membantu pembuatan tampilan website
+44. https://cdn.ckeditor.com/ : Website untuk mengubah input data text area menjadi text editor
 
 ~ Gambar, Video, dan Icon ~
 1. https://unsplash.com/ : Website untuk mengambil gambar, icon, dan video tanpa takut copyright.
@@ -214,9 +217,8 @@ Link Github Untuk referensi data website :
 39. https://github.com/azishapidin/indoregion : Github untuk mengambil data semua wilayah indonesia
 40. https://github.com/whyalwaysnuew : Github untuk melihat referensi project web developer yang sudah dibuat
 41. https://github.com/jwasham/coding-interview-university#sorting : Github untuk melihat referensi test coding interview
-42. https://github.com/mberecall/ijaboCropTool : Github untuk crop gambar pada fitur upload gambar ke dalam website
+42. https://github.com/mberecall/ijaboCropTool : Github Javascript Jquery untuk crop gambar pada fitur upload gambar ke dalam website
 43. https://github.com/mewebstudio/captcha : Github untuk membuat captcha di program website atau yang lain
-44. https://github.com/mberecall/ijaboCropTool : Github Javascript Jquery CROP Gambar di program website atau yang lain
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
