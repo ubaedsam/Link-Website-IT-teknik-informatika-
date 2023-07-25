@@ -222,6 +222,7 @@ Link Github Untuk referensi data website :
 44. https://github.com/barryvdh/laravel-debugbar : Github untuk mendebug program laravel
 45. https://github.com/clovon/Multipurpose-Laravel-and-Livewire-Application/tree/main : Github youtuber developer india
 46. https://github.com/livewire/sortable : Github untuk library livewire sortBy dan drag data program laravel
+47. https://github.com/rap2hpoutre/fast-excel?ref=madewithlaravel.com : Github untuk library import/export excel laravel
 
 Link Website Aplikasi Server Data API ( Rest API ) :
 1. https://www.postman.com/downloads/ : Aplikasi Rest API
